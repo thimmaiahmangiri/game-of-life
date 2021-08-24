@@ -1,0 +1,4 @@
+mvn sonar:sonar \
+  -Dsonar.projectKey=thimmaiah \
+  -Dsonar.host.url=http://18.179.41.120:9000 \
+  -Dsonar.login=a611015ce192675dcda0b1a808af51f14a1f75ce
